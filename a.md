@@ -3,3 +3,8 @@
 - a
 - b
 - c
+
+```javascript
+var a=10;
+console.log(a);
+```
