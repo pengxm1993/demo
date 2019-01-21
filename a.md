@@ -33,3 +33,6 @@ console.log(a);
 ---|:---:|---:
 陀思妥耶夫斯基|加西亚马尔克斯|加缪
 
+## 引用图片
+
+![baidu](https://www.baidu.com/img/bd_logo1.png?qua=high&where=super '这是百度的图片') 
