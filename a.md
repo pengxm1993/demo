@@ -36,3 +36,7 @@ console.log(a);
 ## 引用图片
 
 ![baidu](https://www.baidu.com/img/bd_logo1.png?qua=high&where=super '这是百度的图片') 
+
+## 这是冲突演示
+
+this is master branch.
